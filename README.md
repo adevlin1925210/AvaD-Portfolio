@@ -1,10 +1,10 @@
 # CS105/6/7/8 Portfolio
-# FirstName LastName
+# Ava Devlin
 ## Portfolio
-Contact Info: [fill in]
+Contact Info: adevlin@loyola.edu; 
 ### About Me 
 [Fill in Madlibs here]
-
+pic.png
 ### Education 
 [Fill in Education here]
 ***
