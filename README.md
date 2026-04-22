@@ -21,12 +21,12 @@ Sophmore at Loyola University Maryland
 ![Project 1 screenshot](project 1.png)
  - (https://studentsloyola-my.sharepoint.com/:x:/g/personal/adevlin_loyola_edu/IQCsKjm0NTK5Q6-J_CgkkCptAamkk0TZABTmLXsqMf2qAEE?e=fegHEs)
 ***
-#### Project 2 Title
- - Project 2 Summary
- - [insert project 2 screenshot here]
- - Project 2 Report
+#### Personality Test
+ - I used all of my knowledge with python to create questions and answers. Python keeps in mind what the user inputs and depending on the answer was it gives a specific personality.
+ - ![Project 2 screenshot](Project 2.png)
+ - (https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-adevlin1925210.git)
 ***
-#### Project 3 Title
- - Project 3 Summary
- - [insert project 3 screenshot here]
- - Project 3 Report
+#### Grade Calculator
+ - In python, I coded a grade calculator. The user inputs their grades annd how much their assingmnet weight, and the coding gives them their average grade (weighted and unweighted) including their letter grade! It also lets the user know if they inputed data wrong. 
+ - ![Project 3 screenshot](project 3.png)
+ - https://github.com/LoyolaUnivMD/sp26-cs105-python-week-3-adevlin1925210.git
