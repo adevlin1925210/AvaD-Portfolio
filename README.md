@@ -18,7 +18,7 @@ Sophmore at Loyola University Maryland
 
 #### Price Analytics
  - I automated a google sheet to give stats such as minimum, maximum, average, etc. on a group of sales items 
- - ![Project 1 screenshot](project 1.png)
+![Project 1 screenshot](project 1.png)
  - (https://studentsloyola-my.sharepoint.com/:x:/g/personal/adevlin_loyola_edu/IQCsKjm0NTK5Q6-J_CgkkCptAamkk0TZABTmLXsqMf2qAEE?e=fegHEs)
 ***
 #### Project 2 Title
